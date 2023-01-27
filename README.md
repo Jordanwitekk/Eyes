@@ -3,7 +3,7 @@ Project title : Eyes Movement
 
 <img src="eyes.png" width=200 height=200>
 
-
+demo: https://jordanwitekk.github.io/Eyes/
 Desprection:
 
 In this assignment we worked a lot with styling and incorporating Java Script, HTMl, and CSS to work together to animate these unblinking eyes to follow the movement of the mouse cursor when it moves across the webpage. CSS was used to style the page layout; HTML div element was used for the focus of the eye-movement exercise; JavaScript function to update the position of the HTML element whenever the mouse moves.

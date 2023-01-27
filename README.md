@@ -1,7 +1,7 @@
 Project title : Eyes Movement 
 
 
-<img src="eyes.png">
+<img src="eyes.png width:50 height=50">
 
 
 Desprection:
